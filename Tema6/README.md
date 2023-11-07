@@ -1,0 +1,9 @@
+Efectul lui Y asupra distributiei a posteriori:
+
+Cu cat valoarea observata a lui Y (numarul de clienti care au cumparat produsul) este mai mare, distributia a posteriori pentru n (numarul total de clienti) va fi mai concentrata in jurul valorilor mai mari. Cu alte cuvinte, cu cat mai multi clienti cumpara produsul (Y crescut), cu atat distributia a posteriori pentru numarul total de clienti (n) va fi mai putin extinsa si va avea valori mai mari in jurul lui Y.
+Pe de alta parte, cu cat valoarea lui Y este mai mica, distributia a posteriori pentru n va avea o extindere mai mare si va avea mai multe valori posibile pentru numarul total de clienti.
+Efectul lui theta asupra distributiei a posteriori:
+
+Cu cat valoarea lui theta (probabilitatea ca un client sa cumpere produsul) este mai mare, distributia a posteriori pentru n va fi mai concentrata in jurul valorilor mai mici. Cu alte cuvinte, cu cat probabilitatea de achizitie a produsului este mai mare, distributia a posteriori pentru numarul total de clienti va fi mai putin extinsa si va avea valori mai mici pentru n.
+Pe de alta parte, cu cat valoarea lui theta este mai mica, distributia a posteriori pentru n va avea o extindere mai mare si va avea valori mai mari posibile pentru numarul total de clienti.
+In esenta, Y si theta influenteaza forma si dispersia distributiei a posteriori pentru n. Cu cat Y si theta sunt mai mari, cu atat distributia a posteriori pentru n va fi mai concentrata si va avea valori mai mici. Cu cat Y si theta sunt mai mici, cu atat distributia a posteriori pentru n va avea o extindere mai mare si va permite o gama mai larga de valori pentru numarul total de clienti.
